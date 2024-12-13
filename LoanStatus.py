@@ -1,3 +1,37 @@
+""" Required Libraries:
+pip install numpy==1.18.1
+pip install matplotlib==3.1.3 
+pip install pandas==0.25.3 
+pip install opencv-python==4.2.0.32
+pip install keras==2.3.1 
+pip install tensorflow==1.14.0 
+pip install h5py==2.10.0 
+pip install pillow==7.0.0
+pip install sklearn-genetic==0.2
+pip install SwarmPackagePy
+pip install scikit-learn==0.22.2.post1
+Pip install sklearn-extensions==0.0.2
+Pip install pyswarms==1.1.0
+
+pip install django==2.1.7
+pip install pymysql==0.9.3
+pip install numpy==1.19.2
+pip install pandas==0.25.3
+pip install matplotlib==3.1.1
+pip install keras==2.3.1
+pip install protobuf==3.16.0
+pip install scikit-learn==0.22.2.post1
+pip install seaborn==0.10.1
+pip install tensorflow==1.14.0
+pip install pickleshare==0.7.5
+pip install opencv-python==4.1.1.26
+pip install scikit-image==0.16.2
+pip install h5py==2.10.0
+pip install imutils==0.5.3
+pip install ipython    """
+
+
+#main code
 from tkinter import *
 import tkinter
 from tkinter import filedialog
